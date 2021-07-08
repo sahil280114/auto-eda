@@ -4,3 +4,5 @@ App to perform automated basic exploratory data analysis on a csv file using pan
 Built using Streamlit.
 <br><br>
 Visit the webapp <a href="google.com">here</a>.
+<br><br>
+Usable EDA app in approx. 50 lines of code. Streamlit is amazing.
